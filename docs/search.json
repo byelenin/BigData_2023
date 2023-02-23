@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "My Quarto Website",
+    "title": "Introductory Econometrics at NJU",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Introduction to Econometrics\n        \n        \n            Combine research design, causal inference, and econometric tools to measure the effects of social programs\n        \n        \n            Spring 2023Business SchoolNanjing University\n        \n    \n    \n      \n        \n        \n        \n      \n    \n\n\nWelcome to the course website for the 2023 edition of Introduction to Econometrics, colloquially known as just “Intro’Metrics”(Jiliang), delivered by Prof. Zhaopeng Qu and his TAs at Business School, Nanjing University.\nThis course introduces students to modern causal inference,times series and machine learning methods for analyzing data in economics and other social sciences.The course is as light as possible on maths, but heavy on intuition and practical examples; matrix notation is not used.\nThe goal is to help you develop a solid theoretical background in introductory level econometrics, an ability to implement modern econometric methods, and a critical thinking about empirical studies in economics and other social sciences.\nSpecifically, we will learn six common econometric research design techniques that aim to credibly estimate causal effects and reliably make prediction on economic and social relationships:\n\nRandomized Controlled Trial(RCT)\nRegression(OLS)\nInstrumental Variables(IV)\nRegression Discontinuity Designs(RDD)\nPanel Data and Differences-in-Differences(DID)\nTimes Series and Machine Learning(TS and ML)\n\nAt the end, students will use at least one of them above to finish an empirical research proposal.\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#spring2023",
+    "href": "index.html#spring2023",
+    "title": "Introductory Econometrics at NJU",
+    "section": "Spring,2023",
+    "text": "Spring,2023\n\nIntroduction\nWelcome to the course website for the 2023 edition of Introduction to Econometrics, colloquially known as just “Intro’Metrics”(Jiliang), delivered by Prof. Zhaopeng Qu and his TAs at Business School, Nanjing University.\nThis course introduces students to modern causal inference,times series and machine learning methods for analyzing data in economics and other social sciences.The course is as light as possible on maths, but heavy on intuition and practical examples; matrix notation is not used.\nThe goal is to help you develop a solid theoretical background in introductory level econometrics, an ability to implement modern econometric methods, and a critical thinking about empirical studies in economics and other social sciences.\nSpecifically, we will learn six common econometric research design techniques that aim to credibly estimate causal effects and reliably make prediction on economic and social relationships:\n\nRandomized Controlled Trial(RCT)\nRegression(OLS)\nInstrumental Variables(IV)\nRegression Discontinuity Designs(RDD)\nPanel Data and Differences-in-Differences(DID)\nTimes Series and Machine Learning(TS and ML)\n\nAt the end, students will use at least one of them above to finish an empirical research proposal."
   }
 ]

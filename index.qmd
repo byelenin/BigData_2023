@@ -1,6 +1,34 @@
 ---
-title: "My Quarto Website"
+title: "Introduction to Econometrics"
+subtitle: "Combine research design, causal inference, and econometric tools to measure the effects of social programs"
+details: "Spring 2023<br>Business School<br>Nanjing University"
+sidebar: false
+toc: false
+page-layout: full
+format:
+  html:
+    template-partials:
+      - html/home/title-block.html
+course-logo: /files/ashenfelter_adjusted.png
+
 ---
+
+Welcome to the course website for the 2023 edition of **Introduction to Econometrics**, colloquially known as just _“Intro’Metrics”(Jiliang)_, delivered by [Prof. Zhaopeng Qu](https://byelenin.github.io/) and his TAs at [Business School](https://nubs.nju.edu.cn), [Nanjing University](https://www.nju.edu.cn).
+
+This course introduces students to modern **causal inference**,**times series** and **machine learning** methods for analyzing data in economics and other social sciences.The course is as light as possible on maths, but heavy on intuition and practical examples; matrix notation is not used. 
+
+The goal is to help you develop a solid theoretical background in introductory level econometrics, an ability to implement modern econometric methods, and a critical thinking about empirical studies in economics and other social sciences.  
+
+Specifically, we will learn six common econometric research design techniques that aim to credibly estimate causal effects and reliably make prediction on economic and social relationships:
+
+- *Randomized Controlled Trial(RCT)*
+- *Regression(OLS)*
+- *Instrumental Variables(IV)*
+- *Regression Discontinuity Designs(RDD)*
+- *Panel Data and Differences-in-Differences(DID)*
+- *Times Series and Machine Learning(TS and ML)*
+
+At the end, students will use at least one of them above to finish an empirical research proposal.
 
 This is a Quarto website.
 

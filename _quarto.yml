@@ -2,18 +2,23 @@ project:
   type: website
   output-dir: docs
 website:
-  title: "Introductory Econometrics"
+  title: "Introductory Econometrics at NJU"
+
   navbar:
-    left:
+    pinned: true
+    background: "#341648"
+    right:
       - href: index.qmd
         text: Home
       - about.qmd
 
+
+
 format:
   html:
-    theme: cosmo
+    theme: litera
     css: styles.css
     toc: true
-
+    highlight-style: monokai
 editor: visual
 
