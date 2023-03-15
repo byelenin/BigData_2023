@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
 website:
-  title: "Introductory Econometrics at NJU"
+  title: "Intro 'Metrics at NJU"
 
   navbar:
     pinned: true
@@ -11,6 +11,16 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+
+
+  page-footer:
+    right: |
+      Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)<br>
+      [View the source at {{< fa brands github >}} GitHub]({{< var course.github >}})
+
+
+
+
 
 format:
   html:
