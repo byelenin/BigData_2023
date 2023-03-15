@@ -2,8 +2,26 @@
 title: "About"
 ---
 
-About this site
+<font size="4">I received my Ph.D. degree in economics at [Beijing Normal University](https://www.bnu.edu.cn) in 2009. Then I joined [Business School](https://nubs.nju.edu.cn/), Nanjing University as an Assistant Professor of Population and Labor Economics. Before academia, I had worked as a reporter at a business newspapers in Beijing and Shanghai for four years. </font>
 
-```{r}
-1 + 1
+------------------------------------------------------------------------
+
+### Previous Visiting Positions
+
+<font size="4">
+
+-   Sep.2007- Oct.2008, I had spent one year as a visiting researcher at the [Institute of Labor Economics(IZA)](http://www.iza.org) and a visiting PhD student at [The University of Bonn](https://www.uni-bonn.de).
+
+-   July 2011, I had visited the [School of Economics, University of Nottingham](https://www.nottingham.ac.uk/economics/) as a visiting professor for one month.
+
+-   February 2018, I had visited the [University Service Centre for Chinses Studies](http://www.usc.cuhk.edu.hk/Chs/Default.aspx), Chinese University of Hong Kong as a visiting professor for one month.
+
+------------------------------------------------------------------------
+
+</font>
+
+::: column-right
+```{r, out.width = "300px", echo=FALSE, fig.align='center'}
+knitr::include_graphics("pictures/nubs.png")
 ```
+:::
